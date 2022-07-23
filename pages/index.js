@@ -57,7 +57,7 @@ const Home = () => {
   };
 
   return (
-    <div className="w-3/4 max-w-[500px] mx-auto text-center">
+    <div className="w-3/4 max-w-[600px] mx-auto text-center">
       <div className="pt-12">
         <h1 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-100 via-blue-400 to-blue-700">
           NeoTODO
